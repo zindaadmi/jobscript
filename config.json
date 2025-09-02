@@ -1,0 +1,24 @@
+{
+  "email": "your_email@example.com",
+  "password": "your_password",
+  "notice_period": "30",
+  "current_salary": "600000",
+  "expected_salary": "800000",
+  "preferred_locations": [
+    "Bangalore",
+    "Mumbai",
+    "Delhi",
+    "Pune",
+    "Hyderabad"
+  ],
+  "job_keywords": [
+    "backend java developer",
+    "java spring boot",
+    "java backend",
+    "spring framework",
+    "java microservices"
+  ],
+  "experience_years": 3,
+  "max_applications_per_run": 20,
+  "delay_between_applications": 5
+}
