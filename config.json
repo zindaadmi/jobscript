@@ -1,0 +1,47 @@
+{
+  "job_keywords": [
+    "Backend Java Developer",
+    "Java Developer",
+    "Spring Boot Developer", 
+    "Backend Developer Java",
+    "Java Backend Engineer",
+    "Senior Java Developer"
+  ],
+  "min_experience": 3,
+  "max_experience": 8,
+  "locations": [
+    "Bangalore",
+    "Hyderabad", 
+    "Pune",
+    "Chennai",
+    "Mumbai",
+    "Delhi NCR",
+    "Gurgaon",
+    "Noida",
+    "Remote"
+  ],
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Spring Framework",
+    "Microservices",
+    "REST API",
+    "Hibernate",
+    "JPA",
+    "MySQL",
+    "PostgreSQL",
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "max_applications_per_run": 20,
+  "delay_between_applications": 5,
+  "company_blacklist": [
+    "Company1",
+    "Company2"
+  ],
+  "salary_range": {
+    "min": 800000,
+    "max": 2500000
+  }
+}
