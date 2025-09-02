@@ -1,0 +1,19 @@
+{
+  "username": "your_naukri_email@example.com",
+  "password": "your_naukri_password",
+  "search_keywords": "java backend developer springboot",
+  "location": "Bangalore",
+  "headless": false,
+  "delay_between_applications": 5,
+  "additional_keywords": [
+    "java developer",
+    "backend engineer java",
+    "java springboot developer",
+    "senior java developer",
+    "java spring developer"
+  ],
+  "exclude_companies": [],
+  "preferred_companies": [],
+  "min_salary": 0,
+  "work_mode_preference": "all"
+}
